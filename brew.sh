@@ -98,7 +98,7 @@ brew install vbindiff
 brew install zopfli
 brew install visual-studio-code
 brew install google-chrome
-brew install steam
+brew install --cask steam
 brew install firefox
 brew install --cask docker
 brew install htop
