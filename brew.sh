@@ -96,6 +96,24 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
+brew install visual-studio-code
+brew install google-chrome
+brew install steam
+brew install firefox
+brew install --cask docker
+brew install htop
+brew install rsync
+brew install yt-dlp
+brew install mp4v2
+brew install smartmontools
+brew install imagemagick
+brew install axel
+brew install aerial
+brew install ffmpeg
+brew install bpytop
+brew install mas
+brew install cliclick
+brew install neofetch
 
 # Remove outdated versions from the cellar.
 brew cleanup
